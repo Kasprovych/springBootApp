@@ -1,4 +1,4 @@
-package com.guru.spring.model;
+package com.app.spring.model;
 
 
 import javax.persistence.*;

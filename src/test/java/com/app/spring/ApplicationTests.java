@@ -1,4 +1,4 @@
-package com.guru.spring;
+package com.app.spring;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
